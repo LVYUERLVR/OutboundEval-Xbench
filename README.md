@@ -73,3 +73,7 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 
 
 ![llm_12](./imgs/llm_12.jpg)
+
+
+## 🔍️ User Simulator
+
