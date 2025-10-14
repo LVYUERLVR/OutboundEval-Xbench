@@ -98,11 +98,5 @@ To address this bottleneck, we introduce the concept of a **User Simulator**.
 </div>
 
 
-## 📜 Citation
-If you find this work useful for your research, please cite our paper and star our git repo:
 
-```bibtex
-@misc{
-}
-```
 
