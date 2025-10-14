@@ -102,14 +102,7 @@ To address this bottleneck, we introduce the concept of a **User Simulator**.
 If you find this work useful for your research, please cite our paper and star our git repo:
 
 ```bibtex
-@misc{bu2025limitsvirtualagentapplication,
-  title={What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities}, 
-  author={Wendong Bu and Yang Wu and Qifan Yu and Minghe Gao and Bingchen Miao and Zhenkui Zhang and Kaihang Pan and Yunfei Li and Mengze Li and Wei Ji and Juncheng Li and Siliang Tang and Yueting Zhuang},
-  year={2025},
-  eprint={2506.08933},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2506.08933}, 
+@misc{
 }
 ```
 
