@@ -1,5 +1,5 @@
 <div align="center">
-<h2 style="font-size: 32px;">OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench's Professional-Aligned Series</h2>
+<h2 style="font-size: 40px;">OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench's Professional-Aligned Series</h2>
 </div>
 
 <p align="center">
