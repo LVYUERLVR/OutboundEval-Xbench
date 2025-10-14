@@ -1,5 +1,6 @@
 <div align="center">
-<h2>OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench's Professional-Aligned Series</h2></div>
+<h2 style="font-size: 24px;">OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench's Professional-Aligned Series</h2>
+</div>
 
 <p align="center">
   <!-- arxiv badges -->
