@@ -86,6 +86,13 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 
 ## 🔍️ User Simulator
 
-![llm_12](./imgs/fig-dialogue-gen.png)
-![llm_12](./imgs/fig-user-simulator.png)
+
+<div align="center">
+  <img src="./imgs/fig-dialogue-gen.png"/>
+  <p style="font-size: 14px; color: gray; margin-top: 8px;">Interactive dialogue generation.</p>
+</div>
+<div align="center">
+  <img src="./imgs/fig-user-simulator.png"/>
+  <p style="font-size: 14px; color: gray; margin-top: 8px;">Generation of character profiles.</p>
+</div>
 
