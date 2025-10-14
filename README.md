@@ -85,7 +85,8 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 
 
 ## 🔍️ User Simulator
-
+In the domain of automated outbound calling services, evaluating an AI agent's ability to complete tasks in realistic scenarios is a core yet challenging problem. The primary difficulties arise from the complexity of real-world users, the stochastic nature of communication, and the volatility of human emotions. These factors make it difficult for traditional script-based testing methods to objectively and comprehensively assess the robustness and adaptability of AI agents.  
+To address this bottleneck, we introduce the concept of a **User Simulator**.
 
 <div align="center">
   <img src="./imgs/fig-dialogue-gen.png"/>
