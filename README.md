@@ -14,12 +14,6 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
   </a>
-  <!-- HuggingFace -->
-  <!-- <a href="https://huggingface.co/papers/">
-    <img src="https://img.shields.io/badge/-%F0%9F%A4%97%20Hugging_Face-orange?style=flat"/>
-  </a> -->
-  <!-- Last commit -->
-  <img src="https://img.shields.io/github">
 </p>
 
 <div align="center">
