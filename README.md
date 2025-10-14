@@ -77,7 +77,11 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 | 12   | kimi-k2-instruct (Kimi-Team et al., 2025) | 0.7904 | 0.7095                     | 0.8894                               |
 
 
-![llm_12](./imgs/llm_12.jpg)
+
+<div align="center">
+  <img src="./imgs/llm_12.jpg"/>
+  <p style="font-size: 14px; color: gray; margin-top: 8px;">Evaluation Results of the Top 12 Large Language Models</p>
+</div>
 
 
 ## 🔍️ User Simulator
