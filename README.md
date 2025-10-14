@@ -53,7 +53,24 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 ![llm_12](./imgs/main.png)
 
 
+## ⭐ Result
 
+以下是将图中表格内容转换为的 Markdown 代码：
+
+| Rank | Model Name                          | Total Score | Task Flow Compliance Score | General Interaction Capability Score |
+|------|-------------------------------------|-------------|----------------------------|--------------------------------------|
+| 1    | doubao-1.5-32k (ByteDance, 2025)    | **0.8881**  | 0.8331                     | 0.9554                               |
+| 2    | gpt-4.1 (OpenAI, 2025)              | 0.8818      | 0.8204                     | **0.9568**                           |
+| 3    | claude-4-sonnet (Anthropic, 2025b)  | 0.8748      | **0.8339**                 | 0.9248                               |
+| 4    | gemini-2.5-flash (Comanici et al., 2025) | 0.8719 | 0.8016                     | **0.9578**                           |
+| 5    | qwen3-32b-base (Yang et al., 2025)  | 0.8672      | 0.7986                     | 0.9510                               |
+| 6    | gpt-4o (OpenAI, 2024)               | 0.8606      | 0.8072                     | 0.9258                               |
+| 7    | claude-3.5-sonnet (Anthropic, 2024) | 0.8448      | 0.7764                     | 0.9283                               |
+| 8    | gemini-2.5-pro (Comanici et al., 2025) | 0.8438    | 0.7544                     | 0.9530                               |
+| 9    | deepseek-v3 (DeepSeek-AI et al., 2025b) | 0.8195  | 0.7683                     | 0.8821                               |
+| 10   | claude-3.7-sonnet (Anthropic, 2025a) | 0.8162     | 0.7522                     | 0.8944                               |
+| 11   | deepseek-r1 (DeepSeek-AI et al., 2025a) | 0.7984   | 0.7767                     | 0.8250                               |
+| 12   | kimi-k2-instruct (Kimi-Team et al., 2025) | 0.7904 | 0.7095                     | 0.8894                               |
 
 
 ![llm_12](./imgs/llm_12.jpg)
