@@ -52,6 +52,11 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 
 ![llm_12](./imgs/main.png)
 
+<div align="center">
+  <img src="./imgs/main.png"/>
+  <p style="font-size: 14px; color: gray; margin-top: 8px;">Figure 1: The OutboundEval Framework for Evaluating Outbound Interaction Systems</p>
+</div>
+
 
 ## ⭐ Result
 
