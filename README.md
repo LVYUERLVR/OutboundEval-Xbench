@@ -1,3 +1,59 @@
+<div align="center">
+<h2>OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench's Professional-Aligned Series</h2></div>
+
+<p align="center">
+  <!-- arxiv badges -->
+  <a href="https://arxiv.org/abs/2506.08933">
+    <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">
+  </a>
+  <!-- Chinese Version -->
+  <a href="https://omni-bench.github.io/">
+    <img src="https://img.shields.io/badge/Project Page-white?style=flat&logo=google-docs">
+  </a>
+  <!-- Github -->
+  <a href="https://github.com/antgroup/OmniBench">
+    <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
+  </a>
+  <!-- HuggingFace -->
+  <!-- <a href="https://huggingface.co/papers/2411.10943">
+    <img src="https://img.shields.io/badge/-%F0%9F%A4%97%20Hugging_Face-orange?style=flat"/>
+  </a> -->
+  <!-- Last commit -->
+  <img src="https://img.shields.io/github/last-commit/antgroup/OmniBench?color=green">
+</p>
+
+<div align="center">
+  <p>
+    <a>Pengyu Xu</a><sup>1,4*</sup>, 
+    <a>Shijia Li</a><sup>1,5*</sup>, 
+    <a>Ao Sun</a><sup>1,6*</sup>,
+    <a>Yahan Li</a><sup>1,7</sup>, 
+    <a>Bo Wu</a><sup>1,8</sup>,
+    <a>Zhanyu Ma</a><sup>1</sup>, <br>
+    <a>Jiguo Li</a><sup>1</sup>,
+    <a>Jun Xu</a><sup>1</sup>,
+    <a>Jiuchong Gao</a><sup>1</sup>,
+    <a>Jinghua Hao</a><sup>1</sup>,
+    <a>Renqing He</a><sup>1</sup>,
+    <a>Rui Wang</a><sup>2</sup>,
+    <a>Yang Liu</a><sup>2</sup>,
+    <a>Xiaobo Hu</a><sup>2</sup>,
+    <a>Xbench</a><sup>2</sup>,
+    <a>Fan Yang</a><sup>3</sup>,
+    <a>Jia Zheng</a><sup>3</sup>,
+    <a>Guanghua Yao</a><sup>3</sup>,
+  </p>
+  <p>
+    <sup>1</sup><a>Meituan</a>, <sup>2</sup><a>Xbench</a>, <sup>3</sup><a>Agora</a>, <sup>4</sup><a>Beijing Jiaotong University</a>, <br>
+    <sup>5</sup><a>BUPT</a>, <sup>6</sup><a>The Chinese University of Hong Kong, Shenzhen</a>, <sup>7</sup><a>Jilin University</a>, <sup>8</sup><a>Peking University</a>
+  </p>
+</div>
+
+<div align="center"><small><sup>*</sup>Equal Contribution.</small></div>
+
+
+
+
 # OutboundEval
 
 ![llm_12](./imgs/main.png)
