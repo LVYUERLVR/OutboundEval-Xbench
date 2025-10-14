@@ -55,7 +55,6 @@ In this work, we propose **OutboundEval**, a comprehensive benchmark for evaluat
 
 ## ⭐ Result
 
-以下是将图中表格内容转换为的 Markdown 代码：
 
 | Rank | Model Name                          | Total Score | Task Flow Compliance Score | General Interaction Capability Score |
 |------|-------------------------------------|-------------|----------------------------|--------------------------------------|
