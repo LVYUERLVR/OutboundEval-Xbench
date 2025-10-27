@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Project Page-white?style=flat&logo=google-docs">
   </a>
   <!-- Github -->
-  <a href="https://github.com/">
+  <a href="https://github.com/LVYUERLVR/OutboundEval-Xbench">
     <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
   </a>
 </p>
