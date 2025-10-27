@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- arxiv badges -->
-  <a href="https://arxiv.org/abs/">
+  <a href="[https://arxiv.org/abs/](https://arxiv.org/abs/2510.21244)">
     <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">
   </a>
   <!-- Chinese Version -->
