@@ -7,10 +7,6 @@
   <a href="https://arxiv.org/abs/2510.21244">
     <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">
   </a>
-  <!-- Chinese Version -->
-  <a href="https://baidu.com">
-    <img src="https://img.shields.io/badge/Project Page-white?style=flat&logo=google-docs">
-  </a>
   <!-- Github -->
   <a href="https://github.com/LVYUERLVR/OutboundEval-Xbench">
     <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
